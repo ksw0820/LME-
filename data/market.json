@@ -1,1 +1,94 @@
-{"last_checked_kst":null,"fx":null,"copper":null,"fx_history":[],"copper_history":[],"news":[],"errors":["데이터 초기화 전 — GitHub Actions를 수동 실행하세요."]}
+{
+  "last_checked_kst": "2026-10-27T14:30:46+09:00",
+  "fx": {
+    "date": "2026-10-27",
+    "value": 1324.59,
+    "source": "Frankfurter (central bank reference)",
+    "url": "https://frankfurter.dev/"
+  },
+  "copper": null,
+  "fx_history": [
+    {
+      "date": "2026-10-27",
+      "value": 1324.59
+    }
+  ],
+  "copper_history": [],
+  "news": [
+    {
+      "title": "What the coming copper crunch means for the global economy - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNjdGamJsMUlncDFNNDR3WWVhUnh0QkFZbFpQTlRLdFA4S2E5Zm9BREhKb3ZJMExBZVhZZTJnNWVQYXRQakNZWnNIOWpiUkZnRFJ6TVVuX3JlVUo5Vko0eC1rajc5RnczNG1hLXFsUkI5VFRQcDlFaWoxdmNobTAwRDRNV0M?oc=5",
+      "published": "Fri, 23 Oct 2026 11:01:09 GMT",
+      "topic": "copper metal price supply demand"
+    },
+    {
+      "title": "LME Week: Copper supply struggles to keep pace with electrification demand - S&P Global",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNLXRmRWZCaW5zRnlvVmlEVzlzakMzMFpPRGJubDZFejlKYkgycUkwRmc4eW1SY1A4QnA5NHdPSWdlVzJNb3lYak9NT0JxaXBfdlhLTjVSWnI5dHZjbU1JM21mX0E3SjVyR3lzUEhmU3BKWGVJMTFxYmpDZU1RcjRoekF3RHhiSG9XOW5pd09ybXB2SzZHcjZ5cktjU3A5QWgwTWZabWZqZWFaZ0ZrUlVyTzc3eEl3em1qQTYzWGU1T1pzMk9HZjV2OGRIc3JndlhNNzdENktXMWlWTW5kRnl0Q2d3?oc=5",
+      "published": "Tue, 20 Oct 2026 14:08:30 GMT",
+      "topic": "copper metal price supply demand"
+    },
+    {
+      "title": "Copper is outshining gold this year. Investors say the rally can survive an AI correction - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9qMHk1cnd4WHlQN0s2bmNpaDZrdGdEUlNyRGN5TTRZd0tVTlhBWEdfODFvY3BzLVJtU1FaSmpVQ1IxNDV2Qk5TTmJ2YlBGdlI0QlNvSV83YjNiMVAxbDUxUnVLQWxpZ05wZ1hmdkFYZjNCdmhOLWI2TNIBfkFVX3lxTE9PVXFMb1ZNMFdwS1lld0txN0gxTWlfUEladVlnYXFhb2pQVVdVbEktNm5IakxqOHkwMFdzM29vZkcwN3BsaXpaMmxEdXBkdDR6Rnk3SllpbUg1ekt4a0dzalhPLXpWUUo5TC1ZdDdla3g5ZzJsdzdWS0c3bXZEQQ?oc=5",
+      "published": "Tue, 20 Oct 2026 05:57:34 GMT",
+      "topic": "copper metal price supply demand"
+    },
+    {
+      "title": "Global Metal Supply Shortages Set to Ease, but Copper Faces a $332 Billion Investment Gap: Transition Metals Outlook - BloombergNEF",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOM24tMC1aTHlWR3BBT3dKaTRpdllQQ3R1VHUyaVQ4TGRzenpaRUpvd0ExZmI5WlFpdUI2VVpyYUM4RDV6eTIzNDBQRVVPYkxhU2RfWmZmQnZmZE5CSl9QMjZkLWpCS2JGeTZHSWUyU0E5emJBN1RNMHkxOVpwVktaUXNVUDlBN00zOVdTQ2xIN2NLRUs4OTJtbGRIendYOUROUm9wUFk1emtwSHkzR1dtemxUaHY1N1JtN0JXMjlrQzhzXy0yX256Z011TXNJdjVGS0JTdzRFNXVvWTNfUDd5anFmTUZ3Vkg2TVpzQnRSTW40ZEFaaG1XMWpYaFRIcFpMZDFCN1VLNzM?oc=5",
+      "published": "Tue, 20 Oct 2026 02:13:38 GMT",
+      "topic": "copper metal price supply demand"
+    },
+    {
+      "title": "How Realistic Is the Bullish Outlook for Copper Prices? - International Banker",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUms5emxPNEZucndOaU9UQ21tMFViRFVhSFhHVlN0QnM4dDBEd25nN3B6aHp2RW44S1hQUlFNNDBxb1loeU1hbGxtU3JYaHZrRVNSZGIyNERPdFg3d29KN25mQkdFQ2NYOHBiQ1R0WmxxUUZPTUZWSG9Ccm1KaE43QXl2WUxOeVoyVFdYNXlIWV82RFVqMmhFRjFpSkpFdw?oc=5",
+      "published": "Mon, 17 Aug 2026 07:00:00 GMT",
+      "topic": "copper metal price supply demand"
+    },
+    {
+      "title": "Copper rally sets record LME price as US tariff fears fuel supply ‘scramble’ - South China Morning Post",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRVFXcV9wU01EWkppam1sazBmYUk2WFpIWWNkazVqU2o3QW5jOUh3ai13TXZoemZYVERxRmdITGxweWlneTVwV2lhNVFWTnJTbzBVcmpMaHl3Q2ZiU3ZieWY3OWQyYXhQbXI2N0NDSmtBTmZLUzFOeG5fME9qSDlkb3BJVUNPUkpGVzdIcnlOUUdyRDlVTzhTbDc4cnRfaEppUVBGSEthNHc2VHpYZ2lJTGFvNWc1Vmw0V2UySU1ab0w5UkVrYkVQR2hFYXp0Vzln0gHQAUFVX3lxTE5DZFpKS1h1UG00dVlscm05VEE2MTdqbWNwc0lKRlB1NV9nWGdCV2k2T2dWQW5QYVJyZGk1N1d2dWcwanFxdDY3Slh6VjVJcXdyWExzYlgycnlnOGFtNTRVTE1XeWFpdVo4OF9YTGxPSlY3bTJzQlJ5aEctbXU2dzQ3RG1WTnJPT2cyd0pueWh5LUw2OFl2dk5XWjByNDFVQ2xHTTlvXzNYZjktbXduU0x4TWZqdFpqQW13cjZ1WDVvb1RLUG5LRlVGdnJnSzcyZHg?oc=5",
+      "published": "Tue, 08 Sep 2026 07:00:00 GMT",
+      "topic": "LME copper China economy"
+    },
+    {
+      "title": "Why Record-High Copper Prices Aren’t Forecast to Last - Goldman Sachs",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdjBiX2ExVUtRYzM4bWRpazNBWGNOQk80ZFFrSUNzWWJncnVzbGZRdUk4SUE5UW5UU2JWdktJMlY5bzJRaDNIOVNGUUZzNjQtSGVVN3p4QW9BRHBpV29YNUwydUhQRTI5R1FlMng2WndLbTY2VzRUalFsc2w5M2dESjh5MFNkZ0s5aTVpVExsd2NCRk03MnhfUWctRU1VZFdU?oc=5",
+      "published": "Fri, 23 Jan 2026 08:00:00 GMT",
+      "topic": "LME copper China economy"
+    },
+    {
+      "title": "US and China AI demand drives copper prices to near-record highs - Nikkei Asia",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQejN4LWowVGEteEJCNVFGakdkQXNyUkhLS0xWblpRZXBnZENlMmt2SExPeXNNMmpILWk2ZVlySjJ6aXdUd0V2SFUzeXExaVpxaHNrWWtWR1pyOWNSSXBORV95cGYyREU1UGNvdHRqZHkwUV9KMWxOa3hON1hpaWNrTTFmRFlERkM5dldsVGRKUDQ5SjhrdFB5TlAwQzRBVF9RQVJlWGNVYjVhU0lDRWNvMzY4NWxJRGIx?oc=5",
+      "published": "Tue, 04 Aug 2026 07:00:00 GMT",
+      "topic": "LME copper China economy"
+    },
+    {
+      "title": "Copper on pace for best year since 2009 as AI demand, supply fears fuel record price rally - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWFNPQ2dCaFRyUzZ5Z1dUcG5COU03OVdEUlVUR1UwQlhWbldfUTVKbnpFVkN2YUVSQnN2NWxjeFJGbk9rVjhzaGZSVGRYNmhuSk5sUjBRMXd1QS1jNmh2TVl2cGdKTlVLeUJlUkp5eGFIeGROaGc3QUxWOU9pbG5lc1E1NjBIVWlOLVE1MmgtaHNrMUJwSGc2SFlNRHo1ZS1xYVprZDVR0gGrAUFVX3lxTFBrZ1pNd2xFWWN0VVlLQXNkbURZTWdxMnZnUEFSMnJJbEVFeHdmNGtEZTlEaDRiMkxsWXhmOUdTM1ViWHRuMjhXUTlRQWNWTkxzWVRielZSMTJVdGxBaW5kcl8tOVhwSk43RHplTGZBcWNlSEkzNUNvakNMYmFMM2htRE5HUmpsbDRCdldlZi1Ec0g4azY2RzNuSEpTXzBfXzlkU3M5VEtYSHdyTQ?oc=5",
+      "published": "Tue, 30 Dec 2025 08:00:00 GMT",
+      "topic": "LME copper China economy"
+    },
+    {
+      "title": "Copper Prices Are Forecast to Decline Somewhat from Record Highs in 2026 - Goldman Sachs",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUmlKTmMwZ3lYWVZhdEU5RWtxX3RyLVFsLTNGa0I1c0RvU2FZZmZuWktDc0FPRjhDb2xwU2lJWTcyNTZYejlrWkF5SENfc2VYLTRTeWl6UkNoaTNsNndUWUlzOGdIRnNucURHOEdEWlN3NWpwelM3amlyaU5wRlduQzFJNEp3bnAzUTJFUzZZOC1uNWIyRmQ3WWRCMlNDZ0JYXzg2dnZSWV9nZw?oc=5",
+      "published": "Thu, 11 Dec 2025 08:00:00 GMT",
+      "topic": "LME copper China economy"
+    },
+    {
+      "title": "Asian currencies mixed as dollar holds firm, yen retreats ahead of Fed decision - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPeG5hcExXaG5ZeVFYazdnQmlwZ1F5bnhETkxsYTAyVUNDQ21KNGc0czFvdVFpODBMUWJXMmVTTlJwek8xcFdiaFZfdlRkY0NBYTJjQnNKNENmRXVOQmZZT3dKNHVKZk9hbjd6YmlPSkpMaHc5ejZLTGJvV1FhOXdkdVJCMFM2UEt1X3V5VnRsSlEteWpkLXM0Q0VjcFp4cV9yMlo5bUkzQVRZZUZHNDZUbFBuZThHNFF1ZjhOQVdmUjNOeGk2Yk5B?oc=5",
+      "published": "Tue, 27 Oct 2026 03:33:17 GMT",
+      "topic": "USD KRW exchange rate dollar"
+    },
+    {
+      "title": "South Korea's Won Nominal Effective Exchange Rate Hits 94.83, Two-Year High as USD-KRW Enters 1,310 Range - BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBzVHBYVUlWc3M4SUdLTTJaaFZ1N3pKZnRrZjB3SWlfZ0w1Z3dHNHMxUzh5WXNoaEJRUUh1cXl0YWRleC0tQTEzdGUxcF9oM25LRDY5eThkNDVEelZJN3ZjMW5XRDFtekxiSjhxWDJCT3FMeGtWbEE?oc=5",
+      "published": "Mon, 26 Oct 2026 03:55:00 GMT",
+      "topic": "USD KRW exchange rate dollar"
+    }
+  ],
+  "errors": [
+    "LME 정식 가격 데이터 공급원 미연결 — COPPER_JSON_URL 설정 필요"
+  ]
+}
