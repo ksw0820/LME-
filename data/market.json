@@ -1,8 +1,8 @@
 {
-  "last_checked_kst": "2026-10-29T08:26:41+09:00",
+  "last_checked_kst": "2026-10-30T08:27:17+09:00",
   "fx": {
-    "date": "2026-10-28",
-    "value": 1332.82,
+    "date": "2026-10-29",
+    "value": 1336.11,
     "source": "Frankfurter (central bank reference)",
     "url": "https://frankfurter.dev/"
   },
@@ -15,6 +15,10 @@
     {
       "date": "2026-10-28",
       "value": 1332.82
+    },
+    {
+      "date": "2026-10-29",
+      "value": 1336.11
     }
   ],
   "copper_history": [],
@@ -26,15 +30,15 @@
       "topic": "copper metal price supply demand"
     },
     {
-      "title": "How Realistic Is the Bullish Outlook for Copper Prices? - International Banker",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUms5emxPNEZucndOaU9UQ21tMFViRFVhSFhHVlN0QnM4dDBEd25nN3B6aHp2RW44S1hQUlFNNDBxb1loeU1hbGxtU3JYaHZrRVNSZGIyNERPdFg3d29KN25mQkdFQ2NYOHBiQ1R0WmxxUUZPTUZWSG9Ccm1KaE43QXl2WUxOeVoyVFdYNXlIWV82RFVqMmhFRjFpSkpFdw?oc=5",
-      "published": "Mon, 17 Aug 2026 07:00:00 GMT",
-      "topic": "copper metal price supply demand"
-    },
-    {
       "title": "Copper jumps to its highest level ever. What the metal is telling us - CNBC",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUmRoSzgtMlI4cHFUUkhZN2l5NmtFZDhOM25zQ1AwT3FudW51RFltOFpqTmNOcmJvTzV4YnNsSzFTTHFwVDhWZkR4REZvMVBzeV9yTkFLaVlYUlNCOHhTeVNERUgtRlBIM2NvNW96UWVCNjRsNFZqSFpDcVRWN0hyeWJNMFJqMGlZS2FLQnl0blhINFlaMGQxQUIxRkhSbEpRZVJWUzZMUFXSAa4BQVVfeXFMTi13N2JFa1BEUHAwZi1id0s2VkVoZ21LRFN5ZVg1Vm5XQjhpNDVWd291UHlNYzBXUmFOc0pkeTZaQ0puSnJaYmw3bldsSzgwYXRqZmRybWhxX3ZwWHB5TVBXOWlUMnJZRXdnRGdRcWdDbFR4QmRwLURWcV92bDFudl9qQnRSYWdwOVdKLU4tZ0E0T2VudXIyNnNhWkExMmdoZUtqMkZKUDVVdlNyVE1n?oc=5",
       "published": "Thu, 06 Aug 2026 07:00:00 GMT",
+      "topic": "copper metal price supply demand"
+    },
+    {
+      "title": "How Realistic Is the Bullish Outlook for Copper Prices? - International Banker",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUms5emxPNEZucndOaU9UQ21tMFViRFVhSFhHVlN0QnM4dDBEd25nN3B6aHp2RW44S1hQUlFNNDBxb1loeU1hbGxtU3JYaHZrRVNSZGIyNERPdFg3d29KN25mQkdFQ2NYOHBiQ1R0WmxxUUZPTUZWSG9Ccm1KaE43QXl2WUxOeVoyVFdYNXlIWV82RFVqMmhFRjFpSkpFdw?oc=5",
+      "published": "Mon, 17 Aug 2026 07:00:00 GMT",
       "topic": "copper metal price supply demand"
     },
     {
@@ -44,9 +48,9 @@
       "topic": "copper metal price supply demand"
     },
     {
-      "title": "How AI data centers are tightening copper supply - Kpler",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBIZ05vbDFPRmFlWUV0UGkwOThiMmthRktIbXY3WURMYWRXQXdGN1Y4ZXFoYnpFajFQQkozd3dMcGx5R0RkZTBnWGpFOXlabkZzeXg5eDZVY1lhYUF0LUZIc1Zhdw?oc=5",
-      "published": "Fri, 17 Jul 2026 07:00:00 GMT",
+      "title": "Copper, nickel prices could double by 2035: report - Mining.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE40S0hSMERHWlFlb3VhYUV3TVZ6NG1PS2VNUmxWS1JLWmV1TWhUNThRNGdUU0xGRm80OUt2aTZ4R1hPdXJMeTlId1dNY1h5WDFJVmhtWjFadnpTcVFyWE9sVUpBMHhxNkFtX1kzc29EQWNRWGVkeF9UUXN4NFo?oc=5",
+      "published": "Wed, 07 Oct 2026 07:00:00 GMT",
       "topic": "copper metal price supply demand"
     },
     {
@@ -62,33 +66,33 @@
       "topic": "LME copper China economy"
     },
     {
-      "title": "Copper on pace for best year since 2009 as AI demand, supply fears fuel record price rally - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWFNPQ2dCaFRyUzZ5Z1dUcG5COU03OVdEUlVUR1UwQlhWbldfUTVKbnpFVkN2YUVSQnN2NWxjeFJGbk9rVjhzaGZSVGRYNmhuSk5sUjBRMXd1QS1jNmh2TVl2cGdKTlVLeUJlUkp5eGFIeGROaGc3QUxWOU9pbG5lc1E1NjBIVWlOLVE1MmgtaHNrMUJwSGc2SFlNRHo1ZS1xYVprZDVR0gGrAUFVX3lxTFBrZ1pNd2xFWWN0VVlLQXNkbURZTWdxMnZnUEFSMnJJbEVFeHdmNGtEZTlEaDRiMkxsWXhmOUdTM1ViWHRuMjhXUTlRQWNWTkxzWVRielZSMTJVdGxBaW5kcl8tOVhwSk43RHplTGZBcWNlSEkzNUNvakNMYmFMM2htRE5HUmpsbDRCdldlZi1Ec0g4azY2RzNuSEpTXzBfXzlkU3M5VEtYSHdyTQ?oc=5",
-      "published": "Tue, 30 Dec 2025 08:00:00 GMT",
+      "title": "What Was the Highest Price for Copper? - Investing News Network",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOX2g0cTNNVFRibXBEbURuQ1JZYjdRVHlpa2JvREY5c182djVzcGQ3a0NpbWdlbVF0TWtxU0ZlQVdNdGhfWFJwT05RWjFCZEc1R1RnRmUwSE5HdGdaRFJwd3ZOU1NleFlBY0dyaWJNN2VFcmR6OFcybU5vN2ZWY2RsQkZUS09aZ1ByOHRIbUp3TThVQzRIOEE0Yl9GOVJJRTc2OXpjSWp2ZFNuOHQtaWZKV25lYkJTdw?oc=5",
+      "published": "Fri, 11 Sep 2026 07:00:00 GMT",
       "topic": "LME copper China economy"
     },
     {
-      "title": "Copper Prices Are Forecast to Decline Somewhat from Record Highs in 2026 - Goldman Sachs",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUmlKTmMwZ3lYWVZhdEU5RWtxX3RyLVFsLTNGa0I1c0RvU2FZZmZuWktDc0FPRjhDb2xwU2lJWTcyNTZYejlrWkF5SENfc2VYLTRTeWl6UkNoaTNsNndUWUlzOGdIRnNucURHOEdEWlN3NWpwelM3amlyaU5wRlduQzFJNEp3bnAzUTJFUzZZOC1uNWIyRmQ3WWRCMlNDZ0JYXzg2dnZSWV9nZw?oc=5",
-      "published": "Thu, 11 Dec 2025 08:00:00 GMT",
+      "title": "Why Record-High Copper Prices Aren’t Forecast to Last - Goldman Sachs",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdjBiX2ExVUtRYzM4bWRpazNBWGNOQk80ZFFrSUNzWWJncnVzbGZRdUk4SUE5UW5UU2JWdktJMlY5bzJRaDNIOVNGUUZzNjQtSGVVN3p4QW9BRHBpV29YNUwydUhQRTI5R1FlMng2WndLbTY2VzRUalFsc2w5M2dESjh5MFNkZ0s5aTVpVExsd2NCRk03MnhfUWctRU1VZFdU?oc=5",
+      "published": "Fri, 23 Jan 2026 08:00:00 GMT",
       "topic": "LME copper China economy"
     },
     {
-      "title": "Copper floods US as traders anticipate Trump tariffs while ‘Taco’ concerns loom - South China Morning Post",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbTZJLUFVZ092YU5hNGRtcFgyc0FIcWdYRGd6UXZzNl9mdHRwYzgxdHJCVjItLXhEaVpJNDE2TUVJVXFOclNkSW1tY1dWOTgwZXVyeHZaLUtaR1VHN0F2d092dWpId0RxTmZJQTBTQ1FheEpMMW9FREI2TkZ1X1ZkcGtDNzkwQ2FKdU9odWNpZmxucmRrOVhJaS1wSmFQT1RBTlpHSzBQbU8tbldSWHhHQmRxbXNxRGxDS3FlUlMxZUlkSG5mNUdB0gHHAUFVX3lxTFBtT1VodWI3UzVwQ251WHBlWlJneTJudTlXdklUZHZKNllqeU5SN3VWbnBrX3IyY1B4THFGM1R1RlI1VEhka3Q0bnU1dlAtYzBNNHVMRk9vY2o0UVIxYzBvbnc0ZUpjU3pEZmo3ckhvMWhLbUdtUV9wUHpXX1pGdTBaTGR3aEJMRFJZQl9qWjJOb3FQQ0VKcEdTME1McTFYMTBXQkw1Q2RvRU1CNVdPOVRVWlBHZi1aTmlNcDhnaFJ0d3B6RFk4MWc?oc=5",
-      "published": "Wed, 05 Aug 2026 07:00:00 GMT",
+      "title": "Copper falls as LME stocks edge higher and mine supply concerns ease - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOMDN5cTZkNXh5bEMwT1gyTHkycldWX2NDOG5iSmswUWxzbFVSQUNaY0N0SmFZeFE1c3FWMVN5VFdFV3BLN2hBSXhLY1o4Z2xjWUhKR19ScWJ6YklkU0Y4YWw4bVo3UDRoSTVJM3lsOXJpM1pvWjVlR0Q5Y1k3ZVFJQ2FWSlFoeXZrN0cxXzFodlhyUVM5dFNqNllfdlVuaWxFQlhidmtsbEhWRFFjTjNnazZucnRkeGY3SEViaUtwUFlzeDVJS0hqLXp6b3FqQlk4eXZXbmZHV3FhWjdzMDhtYlBNVXVndG_SAewBQVVfeXFMTXkweGpUTkZXTF9fbnk5Uk0yQ00xQkpjRVRXdkc4OVhOcEJHSXJGQlhZWDQySWZob0QzNm1JUkxJMmNZR1FfcUdBVXNrcmUtOFd2WmtjZ2pPR1laS3dENzFmWDNFZWpyQWYyTXdoUmZrTkNjTnhwTThFV1dVMXgwMDBnc19sMENaSzdqeFlPTlBYRC1yRjdpVHlyUjBDYTIzQW9ERmhkOGsyVlZXQW0zaXl1VkdLRkZCQ3J6S1ZKT2c5ajdnNGlBcUw2ZFo2UnVhQlR6VVNXd0M4YjhzWk1GT0ZZSnpPbW45aTdjVVc?oc=5",
+      "published": "Mon, 19 Oct 2026 07:00:00 GMT",
       "topic": "LME copper China economy"
-    },
-    {
-      "title": "Dollar Deposits Surge to 4-Year High Amid Rate Gains - 조선일보",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcWFlVVdqMEowOFh1T3djSjh2b1pUa2VlckRjNmVva1ZLemxrY19nem9ocFlva0VSUk4tZFJYbkhNVzZxMDYzdnJ4bGhRMS1QTWliUEl5X3JKc0ZQU2syZFlHQUtDdzJFRWFPa0QzcGNQaXFoVkpzUDViRE53eDV1NE0tVmQyWldXWEVES3BR?oc=5",
-      "published": "Wed, 28 Oct 2026 16:18:25 GMT",
-      "topic": "USD KRW exchange rate dollar"
     },
     {
       "title": "Why South Korea’s Currency Is Weak Despite Strong Exports - Korea Economic Institute of America -",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPLW4yOHNPcmM5REE2bUE5dHZLSndCeTItYVd2ZjhBYkVNQjk4RzhESXFCNmYyX0JyMktmcEFsUnhYVW5PZlluWVhscXZsY0xNMHdRTWVlaWw2VjJkbFJUNjViMUpwd0Q4YmlVcDVJME5kNEd0LXRRUTRTb1dCZ2NaTmtVTmV5Z2pJLW53?oc=5",
       "published": "Mon, 04 May 2026 07:00:00 GMT",
+      "topic": "USD KRW exchange rate dollar"
+    },
+    {
+      "title": "KRW/USD: Korean Won Rises to Highest Since October on Exporters Dollar Sales - Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPYUN0MmdTcmJuYUZSVnVpb1dsNnZlLWl2TV84RWVNV0h2ZlZWdzRTRzBXcmRYdTZEYXJ3LXZsUm9XeVBjMDdmakhDUk9wc1pkVzFiM2RFR25WbG1sb0JpNU91QzZKcXVBVFNrUGVHd3FHMTQxZkZuSm9saU9HY053c2dUTzJ1ZW9zLXhmMkFxeGZMb09NT20zdkh5UHNtalRrdlVzTVdzTGJCVVUxc3JsMXhidGUwWnJtTTYyUldaaVp5X28t?oc=5",
+      "published": "Wed, 05 Aug 2026 07:00:00 GMT",
       "topic": "USD KRW exchange rate dollar"
     }
   ],
