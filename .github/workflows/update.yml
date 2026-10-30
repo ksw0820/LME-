@@ -25,6 +25,11 @@ jobs:
         run: pip install requests
 
       - name: Update market data
+        env:
+          LME_CU_JSON_URL: ${{ vars.LME_CU_JSON_URL }}
+          LME_ZN_JSON_URL: ${{ vars.LME_ZN_JSON_URL }}
+          LME_SN_JSON_URL: ${{ vars.LME_SN_JSON_URL }}
+          HANA_FX_JSON_URL: ${{ vars.HANA_FX_JSON_URL }}
         run: python update.py
 
       - name: Commit updated data
@@ -36,3 +41,4 @@ jobs:
             git commit -m "Daily market data update"
             git push
           fi
+  
