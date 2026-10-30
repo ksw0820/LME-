@@ -97,6 +97,10 @@
     }
   ],
   "errors": [
-    "LME 정식 가격 데이터 공급원 미연결 — COPPER_JSON_URL 설정 필요"
-  ]
+    "동·아연·주석 LME Cash 공식 가격 공급원 미연결",
+    "하나은행 최초고시환율 공급원 미연결"
+  ],
+  "metals": {},
+  "metal_history": {},
+  "hana_fx_history": []
 }
