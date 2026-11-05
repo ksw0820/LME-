@@ -1,5 +1,5 @@
 {
-  "last_checked_kst": "2026-11-05T08:35:33+09:00",
+  "last_checked_kst": "2026-11-06T08:37:12+09:00",
   "fx": {
     "date": "2026-10-29",
     "value": 1336.11,
@@ -36,6 +36,12 @@
       "topic": "LME copper zinc tin supply demand"
     },
     {
+      "title": "Gold, silver, and oil plunged, metals broadly declined, with LME aluminum falling over 4% and LME copper, LME zinc, and LME tin leading the decline, while NY gold broke below 4,000. [Overnight Market] - Shanghai Metals Market",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPRUt4ODhDekZ5VTdncVFfYnhqeXNmMnJCbmVEbGV5cERCVnlUcVZ6VWlteWdTdHNiaUtqMUtHalNGdGx4SGpueEJZYlUwd3dYSDEwQkkwNFdqOWU5elM3MndXZGhXSWp4eVhPS2NtdzNieTNESXNXaWFSTC03cWQwd1JiRWlCc3MweUpQbWlRSHBsMTNHUHJfaXRDZHpXSmRZUkcwcVRuQlVjTVB2NkdtSVlnOWZ4d0RLX2I1TDl0eXdzcXdFamRWXy1uNlpidlZzb0VqRzJIYW5tanhUUndvOW1pM0tRaEM0bVJmeVFHS3VzWnA5VEhSYQ?oc=5",
+      "published": "Thu, 25 Jun 2026 07:00:00 GMT",
+      "topic": "LME copper zinc tin supply demand"
+    },
+    {
       "title": "Zinc Prices Hit Four-Year Highs as Inventory Drawdown Tightens Supply-Demand Balance - BigGo Finance",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9IRVAycHpBRG13Y0pHbGVkMl9EVnpsMk5PcXFSSWpvbnpUU3ZpblRGRW9SWVJUN0NqN3g1STBIWWNyR1Foc0ZQWnhvSDZrX05pWWhSeTJ1dC14WjY2djNJU2YwNVBQb1o0R3NKTjl2aWJoVWZwaHc?oc=5",
       "published": "Tue, 04 Aug 2026 07:00:00 GMT",
@@ -45,12 +51,6 @@
       "title": "Gold, Silver, Copper All Fall, Metals Broadly Decline, LME Copper, Aluminum, Zinc, Tin Down Over 1%, NY Silver Drops Over 4%, Coking Coal and Coke Rise Over 2% [Overnight Market] - Shanghai Metals Market",
       "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOeFdHRVNicGx0dUFsTjYxRDNWVTRQVl9nUENXOW1kY2c0NUtWbHM1MkVFdm8zY3QzelYxTjh2NHBlcVFpbnFzYldtd2Nwb2tyUGVPR0JLYmtKakVETE9nR3Z2YmRlQ1VNXzhnQjhuQk53b01zWDRDSXB6VkFPX2VQaHFQdVg1X1lvR3p1QXZJcTFNWnlMT0dpZmxZUGM5M2ZxQzlxQU11UGRpXzZpWUxOYjNQblVoMVU2NzV2Zk53MXREY2lDeUZhNktnci1OOVFtY05Scjkya2FMTGhPbG92Qi15OEIyalJhT2VaSVhWZkZTZ0h1N2JNZ25GX1U?oc=5",
       "published": "Wed, 19 Aug 2026 01:12:14 GMT",
-      "topic": "LME copper zinc tin supply demand"
-    },
-    {
-      "title": "COMMENTARY: Disruption and dislocation: LME metals' year in seven charts - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPM0hiQm5CNHFiWHVVNHdtY0oxRDJqRnJJN0h5ZTFUbjRQNU8wNnBVS09PdHFFcWJ2aHM2RXhiQ18wdDNZdy1LV1VENS1CV2J5VGNxTDNZaXYyYnB5Yld4RFM4S0pjSVRtd0lFYjJpQnNNTXI2UGNzOV9SazNnWXN2bnJyZks2YmxIM1hyS2pnVUpXS1Q4c25SUzhqRXRVbGluZ2Z6VDVreWlkWUE?oc=5",
-      "published": "Mon, 22 Dec 2025 08:00:00 GMT",
       "topic": "LME copper zinc tin supply demand"
     },
     {
@@ -66,12 +66,6 @@
       "topic": "China industrial economy copper demand"
     },
     {
-      "title": "Why the US remains ‘fragmented’ in a critical copper clash against China - South China Morning Post",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNnhpa3o4QXk3dDFHWWhjSGhJcjQzajd5RzlkamZCaHZYbnBGSmF4S1p6VFlwazIwUnhMekNaOUhIZVc0UzAwdUhWclhQUUVXaVRCMDd0OG45N2ZmTnN1UUxDUmxPSWNYMFplbVJqNE02NElrTGVlTF9BZG1lOU5URlRCdnR2N0hqSjRwbHoyYTBlRmRiVUo2SjhIcnMwSzhJU1hGR1Z2Tzc0TEhPTnJiczVJR3lrUGZPbVZXZEthOFVVYTTSAcMBQVVfeXFMTk40NmpsYlV3WjVVTGhzYTFMdjQxOWlab29xTmY2MVVwNmVjM2pObzJZWW9UUTlCLWZoRU9BUUItY0wwdC1udTRpY294SHpQZW4ydXQzcE1Xcldvb0ZVcnB6ZFNoVDFYcTZGQmR0TVhxRml0cEdxNU40WHZBUlFCX2x5ZVhUdUVyN0NETUx3NzdEODZqblllZGwyVy1XSVRjNXE4SmlZZkdlN1RtRG00cDhrVXAzNHRGUkxIc1RIeUxiandJ?oc=5",
-      "published": "Wed, 24 Jun 2026 07:00:00 GMT",
-      "topic": "China industrial economy copper demand"
-    },
-    {
       "title": "Economic and commodity outlook - BHP",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPcGtKLVd3cnR1clZnanZ2ajZzU3ZpOXJxRVFjdFc0UjhVWW9OblVrQWMwTV9Fb0lmTTJBcDVlQkYzNkVnTmk1NVh5QnV0OWU2LWxfQTluNHU4Q1paRUt0d2lQRmlqZlFuSnpyNkVjbzlUbmdjeDVkVjBNeUV5RUM4MU4xV0tMdWR2U1NuSURMa21ZNmdjSXZJbVNJYzVpYV95a3BDXzJaalVteU1tV1YyX2dzQjV1eFJvVTRWUS16YzNCdFVBcWU4SThvTQ?oc=5",
       "published": "Tue, 18 Aug 2026 07:00:00 GMT",
@@ -84,15 +78,21 @@
       "topic": "China industrial economy copper demand"
     },
     {
-      "title": "HYBE to transfer its entire $285.6M stake in crypto firm Dunamu to US subsidiary HYBE Americas - Music Business Worldwide",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSWx1S0NiT1d5ZmxIWm9PTVRhN2hHVS1BTGQ2a19VazJ5eS1XZWd2YkFNMGZwdkhWX2lOLWc0MTg0Q1ZWTDdWdnpvTkxuNExDZlQ5ZjhPTl9HWEt4Z2FULXVnVjQzYWhvaGVjcWNKUlRwYk5IdHoySEVBZ09id0xiVUhLYlE3RHQ4anp5MzI5eVhNZU5RYm9LSVpnWFlMcGl5eG5VcVRMM2g2REFGZDQwR3dhYkFVTi1VNWx5YUY5RzlUa0pvTHdUWEdoSThkQQ?oc=5",
-      "published": "Wed, 04 Nov 2026 18:19:42 GMT",
-      "topic": "USD KRW Federal Reserve interest rates"
+      "title": "Emerging industries fuel copper demand, production upgrade in China - Xinhua",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBEMEhWVmJQeTRKcVdmOTliRWxzWWR4RXdxV2NycTYtRFRIaU95eHRDYm5nRWtBMnVRRWFURnFvVnFlMGlHVWF5TkhYU1J1N29IOVh4Wk1Kb3k0eVVZVFJkS19iVTdJTG0yUGFsbkFFYVZDM09adWRESnY5eWE?oc=5",
+      "published": "Wed, 03 Jun 2026 07:00:00 GMT",
+      "topic": "China industrial economy copper demand"
     },
     {
       "title": "Asian currencies mixed as yuan slides after PBOC move, won rebounds - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMWMyalozaHZBQ2M1Vk4yUGZZbGJCRTItMFY1RTEwYlVINVhDa2VXLWVOYWlUNlM4UVJrZDFyX3IwNFVNV20wcHpYZVRWcXFEMTYxMTNSUVRHWVVpTnVFMS10clE4VU15ZVVwRXlwemhtZEtxeHVOV0ZhVGQ2bU5yaHlycFdldnoybWRXQjdCdEJ0OXQ2bmZ3dHA4aVpxX3NUTjQyZkJn?oc=5",
       "published": "Tue, 03 Nov 2026 04:49:00 GMT",
+      "topic": "USD KRW Federal Reserve interest rates"
+    },
+    {
+      "title": "Trading Day: A November 5 market bonfire By Reuters - Investing.com Australia",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNG14ZVJ3LThWb3YxSXRueTBkZVB6RXpYMVYzVW16QTI1ZE13MmQzWVV4Z0FaMGRJOVp2eWtEYnN2a3BQUWJuR1lyeFkzNlVTaEZYcmh2T29sdlpyemNMQ0hTcE93MTVmMDlxc1FHU1JaeUZ5UHQ3TkVjNTM4dktYUlFXdHZpRGY5WGxyQ2EzQ1pMdU1H?oc=5",
+      "published": "Thu, 05 Nov 2026 22:18:58 GMT",
       "topic": "USD KRW Federal Reserve interest rates"
     }
   ],
